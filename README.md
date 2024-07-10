@@ -15,3 +15,4 @@ Json File
   "service_status" : "  ` on ` OR ` off ` " 
 }
 ```
+**Ref** [Federico Navarrete](https://dev.to/fanmixco/workaround-to-schedule-aws-ecs-services-4m6b) 
