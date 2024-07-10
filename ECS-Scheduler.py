@@ -28,15 +28,3 @@ def lambda_handler(event, context):
         'statusCode': 200,
         'new_desired_count': event['service_status']
     }
-    
-    
-    """
-    json file 
-    {
-        NameCluster : [
-            NameSerice1 ,
-            NameSerice2 
-        ],
-        service_status : ` on ` OR ` off `
-    }
-    """
